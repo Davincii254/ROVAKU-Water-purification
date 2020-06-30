@@ -1,6 +1,7 @@
 html,
 body {
 	height: 100%;
+	background-color: khaki;
 }
 
 html {
@@ -167,3 +168,6 @@ a:active {
 .other_services img{
 	padding-bottom: 5px;
 }
+table, th, td {
+	border: 1px solid black;
+  }
