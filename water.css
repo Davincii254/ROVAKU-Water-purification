@@ -1,10 +1,7 @@
 html,
 body {
 	height: 100%;
-<<<<<<< HEAD
-=======
 	background-color: khaki;
->>>>>>> 0948374dd9243caa92ccc92c62b48a64e0c1d20a
 }
 
 html {
@@ -170,11 +167,7 @@ a:active {
 }
 .other_services img{
 	padding-bottom: 5px;
-<<<<<<< HEAD
-}
-=======
 }
 table, th, td {
 	border: 1px solid black;
   }
->>>>>>> 0948374dd9243caa92ccc92c62b48a64e0c1d20a
