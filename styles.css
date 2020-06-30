@@ -190,7 +190,7 @@ a:active {
 }
 .introduction{
 	background-color: lightblue;
-	padding-left: 10%;
+	padding:0% 10% 0% 10%;
 }
 .introduction h1{
 	color: red;

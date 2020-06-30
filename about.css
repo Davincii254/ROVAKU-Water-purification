@@ -154,9 +154,9 @@ a:active {
 }
 .introduction{
 	background-color: lightblue;
-	padding-left: 10%;
+	padding-left: 0%;
 }
-.introduction h1{
+.about_us h2{
 	color: red;
 }
 .other_services {
@@ -166,4 +166,14 @@ a:active {
 }
 .other_services img{
 	padding-bottom: 5px;
+}
+.about_us{
+	background-color: cornflowerblue;
+}
+.about_us p{
+	padding-top: 0%;
+}
+h3{
+	color: navy;
+	font-style: oblique;
 }
