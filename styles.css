@@ -334,3 +334,12 @@ color: white;
 .treatmeant p{ 
 color: white;
 }
+.distribution{
+	background-color: lightgreen;
+}
+.treatmeant{
+background-color: lightpink;
+}
+.source{
+background-color: lightseagreen;
+}
