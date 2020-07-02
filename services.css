@@ -11,6 +11,9 @@ html {
 h1{
 	color: cornflowerblue;
 }
+#foot{
+	text-align: center;
+}
 *,
 *:before,
 *:after {

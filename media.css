@@ -15,7 +15,9 @@ html {
 	-moz-box-sizing: inherit;
 	box-sizing: inherit;
 }
-
+#foot{
+	text-align: center;
+}
 body {
 	margin: 0;
 	line-height: 1.5;

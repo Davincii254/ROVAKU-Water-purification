@@ -2,6 +2,7 @@ html,
 body {
 	height: 100%;
 	color: lightblue;
+	background-color: lightcyan;
 
 }
 
@@ -14,7 +15,9 @@ html {
 h1{
 	color: cornflowerblue;
 }
-
+#foot{
+	text-align: center;
+}
 *,
 *:before,
 *:after {
