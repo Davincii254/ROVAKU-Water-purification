@@ -169,3 +169,7 @@ a:active {
 .other_services img{
 	padding-bottom: 5px;
 }
+.allmedia{
+	
+	flex-direction: column;
+}

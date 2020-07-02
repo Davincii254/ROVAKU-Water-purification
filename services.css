@@ -8,6 +8,11 @@ html {
 	box-sizing: border-box;
 	font-size: 16px;
 }
+div{
+	padding-left: 20px;
+	padding-right: 20px31406611
+	;
+}
 h1{
 	color: cornflowerblue;
 }
@@ -171,4 +176,20 @@ a:active {
 }
 .other_services img{
 	padding-bottom: 5px;
+}
+div h4{
+	color: #009688;
+}
+.types_treatment{
+background-color:lavender;
+}
+.importance{
+background-color:gray;
+}
+.harvest{
+	background-color: floralwhite;
+}
+h2{
+color: maroon;
+text-align: center;
 }
